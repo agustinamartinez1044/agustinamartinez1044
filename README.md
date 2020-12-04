@@ -1,4 +1,3 @@
-###  
 <h2> Hey there, I'm Agustina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <h3>👩‍💻 About Me </h3>
 
@@ -15,8 +14,9 @@ object-oriented programming, learning with Python...
 <hr>
 
 ## Technologies and frameworks. 
+<img alt="Wasting Time" height="450em" src="Wasting%20Time.gif" align="left"/>
 
-  ### Front-end development. <img alt="Wasting Time" height="450em" src="Wasting%20Time.gif" align="left"/>
+  ### Front-end development. 
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
