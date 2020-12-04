@@ -4,11 +4,9 @@
 <img align='right' src="https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" width="230">
 
 - 🎓 &nbsp; I’m studying Computer Engineering at UDELAR.
-- 🌱 &nbsp; I’m currently learning on my own in the management of databases and
-object-oriented programming, learning with Python...
-- 💡 &nbsp; I am currently in search of my first work experience.
-- 👩 &nbsp; Responsible, enterprising, who loves challenges.
-- ⌚ &nbsp; In my free time I am always trying to learn something new or play sports
+- 🌱 &nbsp; I'm currently learning on my own in databases.
+- 💡 &nbsp; I'm currently in search of my first work experience.
+- ⌚ &nbsp; In my free time I'm always trying to learn something new or play sports
 - 📫 &nbsp; How to reach me agustinamartinez1044@gmail.com
 
 <hr>
