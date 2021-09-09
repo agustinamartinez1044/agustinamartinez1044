@@ -8,8 +8,8 @@
 - 💡 Junior developer at VintenCloud
 - ⌚ In my free time I always try to learn something new or play sports.
 
-If you want to see my repositories, please contact me..
-
-- 📫Contact me:
+📫To contact me:
 * [Mail](mailto:agustinamartinez1044@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/agustinamartinez1044/)    
+
+If you want to see my repositories, please contact me..
