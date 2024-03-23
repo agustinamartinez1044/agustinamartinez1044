@@ -2,13 +2,16 @@
 <h3>👩‍💻 About Me </h3>
 
 I'm Agustina Martinez, I'm a developer from Montevideo 🇺🇾, Uruguay.
+
 Let's connect and build something amazing together!
+
 
 
 - 🎓 I'm pursuing a Bachelor's Degree in Systems Engineering at Universidad ORT Uruguay.
 - 💡 Currently, I'm employed at [Tiendamia](https://tiendamia.com/) and actively contributing to its projects.
 - 🌱 Constantly learning.
 - ⌚ In my free time, I always strive to learn something new or engage in sports.
+
 
 
 📫 Want to get in touch? Feel free to reach out through:
