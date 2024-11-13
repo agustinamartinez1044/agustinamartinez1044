@@ -8,7 +8,7 @@ Let's connect and build something amazing together!
 ---
 
 - 🎓 I'm pursuing a Bachelor's Degree in Systems Engineering at Universidad ORT Uruguay.
-- 💡 Currently, I'm employed at [Tiendamia](https://tiendamia.com/) and actively contributing to its projects.
+- 💡 Currently, I'm employed at [Mercado Libre](https://www.mercadolibre.com/).
 - 🌱 Constantly learning.
 - ⌚ In my free time, I always strive to learn something new or engage in sports.
 
